@@ -1,3 +1,5 @@
+for Database
+
 from models import db
 db.create_all()
 from models import Task
